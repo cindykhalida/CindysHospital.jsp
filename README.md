@@ -155,6 +155,10 @@ Pada halaman dashboard, admin dapat mengakses menu:
 2. Sistem akan mengakhiri sesi dan kembali ke halaman login.
 
 ---
+# 🏩 Link Youtube Video Demo Aplikasi
+
+https://youtu.be/3W17LEjtpyc?si=mHtsrdTwBPUjVm6d
+
 # 💻 Cara Menjalankan Aplikasi 
 
 1. Import database dbrumahsakit.sql ke phpMyAdmin
